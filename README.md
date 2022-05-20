@@ -1,5 +1,5 @@
 # GFT-Dio---Exerc-cios
-Pastas de exercícios do Bootcamp
+Pastas de exercícios do Bootcamp GFT com a DIO.
 Lista de assuntos:
 - Criação de métodos;
 - Sobrecarga;
