@@ -8,3 +8,6 @@ Lista de assuntos:
 - Loops - Fatorial, Média, Nome e Idade, Notas, Par e Ímpar e Tabuada;
 - Arrays - Consoantes, Numeros Aleatórios, Multidimensional e Ordem Inversa;
 - Lists;
+- Set;
+- Map;
+- Stream APIs;
